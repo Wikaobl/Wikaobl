@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hi%20everyone!&fontSize=90&fontColor=e2f3e8" />
-<img src="<div class="tenor-gif-embed" data-postid="7779535681814001194" data-share-method="host" data-aspect-ratio="1.1267" data-width="100%"><a href="https://tenor.com/view/barbie-ryan-gosling-wink-margot-robbie-handsome-gif-7779535681814001194">Barbie Ryan Gosling GIF</a>from <a href="https://tenor.com/search/barbie-gifs">Barbie GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">/>
+
 <!--
 **Wikaobl/Wikaobl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
