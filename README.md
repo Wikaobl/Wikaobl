@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hi%20everyone!&fontSize=90&fontColor=e2f3e8" />
-<iframe src="https://giphy.com/embed/lXftxbW9qetSsw1whi" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/alanjackson-good-time-alan-jackson-lXftxbW9qetSsw1whi">via GIPHY</a></p>
-<!--
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/lXftxbW9qetSsw1whi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/alanjackson-good-time-alan-jackson-lXftxbW9qetSsw1whi">via GIPHY</a></p><!--
 **Wikaobl/Wikaobl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
