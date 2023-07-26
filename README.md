@@ -3,11 +3,9 @@
   <img height="300" src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hi%20everyone!&fontSize=90&fontColor=e2f3e8&align=center"  />
 </div>
 
-###
 
 <h2 align="left">I'm Wiktoria, I've been programming for 1.5 years. I learn everything on my own. Mostly, I like to create and design websites, also I am interested in Databases. I will help create a website for you or your company. Beside that I study English philology, and in my free time I lift weights at the gym. I love to sew, embroider, paint, and also cook.</h2>
 
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
