@@ -41,7 +41,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 <br>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wiktoriaoblixajek)
+
 <!--
 **Wikaobl/Wikaobl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **<iframe src="https://giphy.com/embed/i1tl23cTCndAr63GKE" width="480" height="423" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/music-pop-notes-i1tl23cTCndAr63GKE">via GIPHY</a></p>**
