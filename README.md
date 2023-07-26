@@ -6,7 +6,7 @@
 
 <h2 align="left">I'm Wiktoria, I've been programming for 1.5 years. I learn everything on my own. Mostly, I like to create and design websites, also I am interested in Databases. I will help create a website for you or your company. Beside that I study English philology, and in my free time I lift weights at the gym. I love to sew, embroider, paint, and also cook.</h2>
 
-
+<br>
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WikaObl&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WikaObl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true&order=2" height="200" alt="languages graph"  />
