@@ -21,7 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WikaObl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 <br>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -41,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
-
+<br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wiktoriaoblixajek)
 <!--
 **Wikaobl/Wikaobl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
