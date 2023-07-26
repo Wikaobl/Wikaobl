@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hi%20everyone!%20I'm%20Wiktoria&fontSize=90&fontColor=e2f3e8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hi%20everyone!&fontSize=90&fontColor=e2f3e8" />
+<h3 align="center">I’m Wiktoria, I live in Poland and I am learning programming myself. I study English philology, and in my free time I lift weights at the gym. I love to sew, embroider, paint, and also cook.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 <!--
 **Wikaobl/Wikaobl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
