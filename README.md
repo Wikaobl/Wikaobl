@@ -41,9 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-
-<img src="https://raw.githubusercontent.com/WikaObl/WikaObl/output/snake.svg" alt="Snake animation" />
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wiktoriaoblixajek)
 <!--
 **Wikaobl/Wikaobl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
