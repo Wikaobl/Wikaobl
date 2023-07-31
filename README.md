@@ -2,7 +2,7 @@
 <div align="center">
   <img height="300" src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hi%20everyone!&fontSize=90&fontColor=ffffff&align=center"  />
 </div>
-<h3 align="left" font-size= "large">I'm Wiktoria, a self-taught programmer with 1.5 years of experience. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> My passion is creating and designing websites, and I also have a keen interest in Databases. If you need help building a website for yourself or your company, I'd be happy to assist. Apart from programming, I study English philology. In my free time, I enjoy
+<h3 align="left">I'm Wiktoria, a self-taught programmer with 1.5 years of experience. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> My passion is creating and designing websites, and I also have a keen interest in Databases. If you need help building a website for yourself or your company, I'd be happy to assist. Apart from programming, I study English philology. In my free time, I enjoy
   <ul>
     <li>weightlifting <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Lifting%20Weights.png" alt="Woman Lifting Weights" width="25" height="25" />,</li>
     <li>sewing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Thread.png" alt="Thread" width="25" height="25" />,</li>
