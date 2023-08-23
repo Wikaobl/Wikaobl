@@ -9,7 +9,7 @@
     <li>sewing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Thread.png" alt="Thread" width="25" height="25" /></li>
     <li>embroidery<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sewing%20Needle.png" alt="Sewing Needle" width="25" height="25" /></li>
    <li>painting<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Artist.png" alt="Woman Artist" width="25" height="25" /></li>
-    <li>and cooking. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Cook.png" alt="Woman Cook" width="25" height="25" /></li></ul>
+    <li>and cooking <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Cook.png" alt="Woman Cook" width="25" height="25" /></li></ul>
   Nice to meet you!</h3>
 
 <br>
