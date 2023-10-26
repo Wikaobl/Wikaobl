@@ -1,15 +1,15 @@
 
 ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hi%20everyone!&fontSize=90&fontColor=ffffff&align=center)
 
-## I'm Wiktoria, a self-taught programmer with 1.5 years of experience. 👩‍💻
+# I'm Wiktoria, a self-taught programmer with 1.5 years of experience. 👩‍💻
 
-### My passion is creating and designing websites, and I also have a keen interest in Databases. If you need help building a website for yourself or your company, I'd be happy to assist. Apart from programming, I study English philology. In my free time, I enjoy:
+## My passion is creating and designing websites, and I also have a keen interest in Databases. If you need help building a website for yourself or your company, I'd be happy to assist. Apart from programming, I study English philology. In my free time, I enjoy:
 
-- weightlifting 🏋️‍♀️
-- sewing :thread:
-- embroidery :sewing_needle:
-- painting :woman_artist:
-- and cooking :woman_cook:
+# - weightlifting 🏋️‍♀️
+# - sewing :thread:
+# - embroidery :sewing_needle:
+# - painting :woman_artist:
+# - and cooking :woman_cook:
 
 Nice to meet you!
 
