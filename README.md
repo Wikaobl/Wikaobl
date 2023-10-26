@@ -20,6 +20,7 @@ Nice to meet you!
 <a href="https://www.facebook.com/wiktoria.oblizajek/" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
 <a href="mailto:oblizajekwiktoria@gmail.com" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
+<br>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WiktoriaOblizajek&show_icons=true&theme=cobalt&count_private=true)
