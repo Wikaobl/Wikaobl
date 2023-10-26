@@ -3,24 +3,23 @@
 
 # I'm Wiktoria, a self-taught programmer with 1.5 years of experience. 👩‍💻
 
-## My passion is creating and designing websites, and I also have a keen interest in Databases. If you need help building a website for yourself or your company, I'd be happy to assist. Apart from programming, I study English philology. In my free time, I enjoy:
+### My passion is creating and designing websites, and I also have a keen interest in Databases. If you need help building a website for yourself or your company, I'd be happy to assist. Apart from programming, I study English philology. In my free time, I enjoy:
 
-# - weightlifting 🏋️‍♀️
-# - sewing :thread:
-# - embroidery :sewing_needle:
-# - painting :woman_artist:
-# - and cooking :woman_cook:
+- weightlifting 🏋️‍♀️
+ - sewing :thread:
+ - embroidery :sewing_needle:
+ - painting :woman_artist:
+ - and cooking :woman_cook:
 
 Nice to meet you!
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/twojprofil)
-[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discord.gg/twojserwer)
-[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/twojprofil)
-[![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://www.facebook.com/twojprofil)
-[![Email](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:twojemail@gmail.com)
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](www.linkedin.com/in/wiktoriaoblizajek)
+[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)]([https://discord.gg/twojserwer](https://discord.com/channels/1135169755599351828/1135169756488552540))
+[![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)]([https://www.facebook.com/twojprofil](https://www.facebook.com/wiktoria.oblizajek/))
+[![Email](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:oblizajekwiktoria@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WikaObl&show_icons=true&theme=cobalt&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WikaObl&layout=compact&langs_count=5&theme=cobalt)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WiktoriaOblizajek&show_icons=true&theme=cobalt&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WiktoriaOblizajek&layout=compact&langs_count=5&theme=cobalt)
 
 <!--
 **Wikaobl/Wikaobl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
