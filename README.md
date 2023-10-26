@@ -13,14 +13,38 @@
 
 Nice to meet you!
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](www.linkedin.com/in/wiktoriaoblizajek)
-[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)]([https://discord.gg/twojserwer](https://discord.com/channels/1135169755599351828/1135169756488552540))
-[![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)]([https://www.facebook.com/twojprofil](https://www.facebook.com/wiktoria.oblizajek/))
-[![Email](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:oblizajekwiktoria@gmail.com)
+<br>
+<div align="center">
+<a href="www.linkedin.com/in/wiktoriaoblizajek" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+<a href="https://discord.gg/F49Z2H4w" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+<a href="https://www.facebook.com/wiktoria.oblizajek/" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+<a href="mailto:oblizajekwiktoria@gmail.com" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+</div>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WiktoriaOblizajek&show_icons=true&theme=cobalt&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WiktoriaOblizajek&layout=compact&langs_count=5&theme=cobalt)
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+</div>
+<br>
 <!--
 **Wikaobl/Wikaobl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **<iframe src="https://giphy.com/embed/i1tl23cTCndAr63GKE" width="480" height="423" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/music-pop-notes-i1tl23cTCndAr63GKE">via GIPHY</a></p>**
